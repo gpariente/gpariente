@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align="center">
+  <samp>
+    <a href="https://www.linkedin.com/in/guy-pariente-250a24218/">linkedin</a>
+  </samp>
+</div>
+<div align="center">
+<img src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fgpariente" />
+</div>
 
 <!--
 **gpariente/gpariente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
