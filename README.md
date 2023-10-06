@@ -1,6 +1,6 @@
 
 <div align="center">
-  Hi There 👋 </br>
+  Hi there 👋 </br>
   <samp>
     <a href="https://www.linkedin.com/in/guy-pariente-250a24218/">linkedin</a>
   </samp>
